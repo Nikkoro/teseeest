@@ -1,0 +1,2985 @@
+{
+    "repo_name": "PRA2021-PRA2022",
+    "HEAD": {
+        "commits": [
+            {
+                "author": "marcin witkowski",
+                "branch": "HEAD",
+                "date": "2020-10-18T16:24:11+02:00",
+                "message": "Initial commit"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "HEAD",
+                "date": "2020-10-18T16:58:41+02:00",
+                "message": "set up maven compilation version"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "HEAD",
+                "date": "2020-10-18T17:00:15+02:00",
+                "message": "add resource file"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "HEAD",
+                "date": "2021-10-03T17:54:27+02:00",
+                "message": "Zmiana komunikatu"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "HEAD",
+                "date": "2021-10-03T18:24:04+02:00",
+                "message": "Master"
+            }
+        ],
+        "authors": [
+            "marcin witkowski"
+        ]
+    },
+    "HibernateEnd": {
+        "commits": [
+            {
+                "author": "WitMar",
+                "branch": "HibernateEnd",
+                "date": "2017-09-28T12:19:00+02:00",
+                "message": "Initial commit"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "HibernateEnd",
+                "date": "2017-09-28T12:41:32+02:00",
+                "message": "Hello World"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "HibernateEnd",
+                "date": "2017-09-28T12:59:27+02:00",
+                "message": "chnage Maven art name"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "HibernateEnd",
+                "date": "2017-09-28T13:17:59+02:00",
+                "message": "Ignore Ideaj Files"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "HibernateEnd",
+                "date": "2017-09-28T16:25:06+02:00",
+                "message": "Add loger"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "HibernateEnd",
+                "date": "2017-09-28T16:27:20+02:00",
+                "message": "Chenage Package"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "HibernateEnd",
+                "date": "2017-10-05T22:29:22+02:00",
+                "message": "Merge remote-tracking branch 'origin/Feature/Logger' into develop# Conflicts:#\tPracowaniaProgramowania/src/main/java/example/HelloWorld.java"
+            },
+            {
+                "author": "WitMar",
+                "branch": "HibernateEnd",
+                "date": "2017-10-06T13:06:06+02:00",
+                "message": "Merge branch 'Feature/Logger' into develop"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "HibernateEnd",
+                "date": "2017-10-06T13:17:58+02:00",
+                "message": "change pom"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "HibernateEnd",
+                "date": "2017-10-11T10:23:10+02:00",
+                "message": "Merge remote-tracking branch 'origin/develop' into develop"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "HibernateEnd",
+                "date": "2017-10-11T10:31:57+02:00",
+                "message": "Second Class start"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "HibernateEnd",
+                "date": "2017-10-11T12:20:39+02:00",
+                "message": "Second Class"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "HibernateEnd",
+                "date": "2017-10-11T13:43:24+02:00",
+                "message": "Second Class"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "HibernateEnd",
+                "date": "2017-10-11T13:50:32+02:00",
+                "message": "Java 1_8"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "HibernateEnd",
+                "date": "2017-10-31T09:26:39+01:00",
+                "message": "Hibernate"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "HibernateEnd",
+                "date": "2017-10-31T10:18:44+01:00",
+                "message": "Hibernate"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "HibernateEnd",
+                "date": "2017-10-31T13:50:23+01:00",
+                "message": "Hibernate"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "HibernateEnd",
+                "date": "2017-10-31T20:49:09+01:00",
+                "message": "Hibernate"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "HibernateEnd",
+                "date": "2017-10-31T23:33:23+01:00",
+                "message": "Hibernate"
+            },
+            {
+                "author": "WitMar",
+                "branch": "HibernateEnd",
+                "date": "2017-11-03T11:09:56+01:00",
+                "message": "fix"
+            },
+            {
+                "author": "WitMar",
+                "branch": "HibernateEnd",
+                "date": "2017-11-03T11:23:14+01:00",
+                "message": "fix"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "HibernateEnd",
+                "date": "2017-11-03T21:23:44+01:00",
+                "message": "gitignore, posprzatanie seconda"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "HibernateEnd",
+                "date": "2018-11-10T14:08:23+01:00",
+                "message": "Start"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "HibernateEnd",
+                "date": "2018-11-10T14:08:55+01:00",
+                "message": "Start"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "HibernateEnd",
+                "date": "2018-11-10T15:29:35+01:00",
+                "message": "Add new elements"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "HibernateEnd",
+                "date": "2020-11-29T20:26:35+01:00",
+                "message": "start code 2020 changes"
+            },
+            {
+                "author": "WitMar",
+                "branch": "HibernateEnd",
+                "date": "2020-11-30T19:09:33+01:00",
+                "message": "fix driver"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "HibernateEnd",
+                "date": "2021-11-21T15:30:21+01:00",
+                "message": "Refactor"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "HibernateEnd",
+                "date": "2021-11-21T15:57:17+01:00",
+                "message": "Refactor"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "HibernateEnd",
+                "date": "2021-11-21T15:59:13+01:00",
+                "message": "Refactor"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "HibernateEnd",
+                "date": "2021-11-21T20:15:05+01:00",
+                "message": "Refactor"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "HibernateEnd",
+                "date": "2021-11-21T21:41:22+01:00",
+                "message": "code classes"
+            }
+        ],
+        "authors": [
+            "THINK",
+            "WitMar",
+            "marcin witkowski",
+            "witkowski.mar@gmail.com"
+        ]
+    },
+    "HibernateStart": {
+        "commits": [
+            {
+                "author": "WitMar",
+                "branch": "HibernateStart",
+                "date": "2017-09-28T12:19:00+02:00",
+                "message": "Initial commit"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "HibernateStart",
+                "date": "2017-09-28T12:41:32+02:00",
+                "message": "Hello World"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "HibernateStart",
+                "date": "2017-09-28T12:59:27+02:00",
+                "message": "chnage Maven art name"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "HibernateStart",
+                "date": "2017-09-28T13:17:59+02:00",
+                "message": "Ignore Ideaj Files"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "HibernateStart",
+                "date": "2017-09-28T16:25:06+02:00",
+                "message": "Add loger"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "HibernateStart",
+                "date": "2017-09-28T16:27:20+02:00",
+                "message": "Chenage Package"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "HibernateStart",
+                "date": "2017-10-05T22:29:22+02:00",
+                "message": "Merge remote-tracking branch 'origin/Feature/Logger' into develop# Conflicts:#\tPracowaniaProgramowania/src/main/java/example/HelloWorld.java"
+            },
+            {
+                "author": "WitMar",
+                "branch": "HibernateStart",
+                "date": "2017-10-06T13:06:06+02:00",
+                "message": "Merge branch 'Feature/Logger' into develop"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "HibernateStart",
+                "date": "2017-10-06T13:17:58+02:00",
+                "message": "change pom"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "HibernateStart",
+                "date": "2017-10-11T10:23:10+02:00",
+                "message": "Merge remote-tracking branch 'origin/develop' into develop"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "HibernateStart",
+                "date": "2017-10-11T10:31:57+02:00",
+                "message": "Second Class start"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "HibernateStart",
+                "date": "2017-10-11T12:20:39+02:00",
+                "message": "Second Class"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "HibernateStart",
+                "date": "2017-10-11T13:43:24+02:00",
+                "message": "Second Class"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "HibernateStart",
+                "date": "2017-10-11T13:50:32+02:00",
+                "message": "Java 1_8"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "HibernateStart",
+                "date": "2017-10-31T09:26:39+01:00",
+                "message": "Hibernate"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "HibernateStart",
+                "date": "2017-10-31T10:18:44+01:00",
+                "message": "Hibernate"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "HibernateStart",
+                "date": "2017-10-31T13:50:23+01:00",
+                "message": "Hibernate"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "HibernateStart",
+                "date": "2017-10-31T20:49:09+01:00",
+                "message": "Hibernate"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "HibernateStart",
+                "date": "2017-10-31T23:33:23+01:00",
+                "message": "Hibernate"
+            },
+            {
+                "author": "WitMar",
+                "branch": "HibernateStart",
+                "date": "2017-11-03T11:09:56+01:00",
+                "message": "fix"
+            },
+            {
+                "author": "WitMar",
+                "branch": "HibernateStart",
+                "date": "2017-11-03T11:23:14+01:00",
+                "message": "fix"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "HibernateStart",
+                "date": "2017-11-03T21:23:44+01:00",
+                "message": "gitignore, posprzatanie seconda"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "HibernateStart",
+                "date": "2018-11-10T14:08:23+01:00",
+                "message": "Start"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "HibernateStart",
+                "date": "2018-11-10T14:08:55+01:00",
+                "message": "Start"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "HibernateStart",
+                "date": "2018-11-10T15:29:35+01:00",
+                "message": "Add new elements"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "HibernateStart",
+                "date": "2020-11-29T20:26:35+01:00",
+                "message": "start code 2020 changes"
+            },
+            {
+                "author": "WitMar",
+                "branch": "HibernateStart",
+                "date": "2020-11-30T19:09:33+01:00",
+                "message": "fix driver"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "HibernateStart",
+                "date": "2021-11-21T15:30:21+01:00",
+                "message": "Refactor"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "HibernateStart",
+                "date": "2021-11-21T15:58:05+01:00",
+                "message": "Refactor"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "HibernateStart",
+                "date": "2021-11-21T20:15:35+01:00",
+                "message": "Refactor"
+            }
+        ],
+        "authors": [
+            "THINK",
+            "WitMar",
+            "marcin witkowski",
+            "witkowski.mar@gmail.com"
+        ]
+    },
+    "IntroductionClassesEnd": {
+        "commits": [
+            {
+                "author": "marcin witkowski",
+                "branch": "IntroductionClassesEnd",
+                "date": "2020-10-18T16:24:11+02:00",
+                "message": "Initial commit"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "IntroductionClassesEnd",
+                "date": "2020-10-18T16:58:41+02:00",
+                "message": "set up maven compilation version"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "IntroductionClassesEnd",
+                "date": "2020-10-18T17:00:15+02:00",
+                "message": "add resource file"
+            },
+            {
+                "author": "WitMar",
+                "branch": "IntroductionClassesEnd",
+                "date": "2020-10-18T17:18:07+02:00",
+                "message": "Final code"
+            }
+        ],
+        "authors": [
+            "marcin witkowski",
+            "witkowski.mar@gmail.com"
+        ]
+    },
+    "IntroductionClassesStart": {
+        "commits": [
+            {
+                "author": "marcin witkowski",
+                "branch": "IntroductionClassesStart",
+                "date": "2020-10-18T16:24:11+02:00",
+                "message": "Initial commit"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "IntroductionClassesStart",
+                "date": "2020-10-18T16:58:41+02:00",
+                "message": "set up maven compilation version"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "IntroductionClassesStart",
+                "date": "2020-10-18T17:00:15+02:00",
+                "message": "add resource file"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "IntroductionClassesStart",
+                "date": "2021-10-03T17:54:27+02:00",
+                "message": "Zmiana komunikatu"
+            }
+        ],
+        "authors": [
+            "marcin witkowski"
+        ]
+    },
+    "JSONandXMLEnd": {
+        "commits": [
+            {
+                "author": "WitMar",
+                "branch": "JSONandXMLEnd",
+                "date": "2017-09-28T12:19:00+02:00",
+                "message": "Initial commit"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "JSONandXMLEnd",
+                "date": "2017-09-28T12:41:32+02:00",
+                "message": "Hello World"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "JSONandXMLEnd",
+                "date": "2017-09-28T12:59:27+02:00",
+                "message": "chnage Maven art name"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "JSONandXMLEnd",
+                "date": "2017-09-28T13:17:59+02:00",
+                "message": "Ignore Ideaj Files"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "JSONandXMLEnd",
+                "date": "2017-09-28T16:25:06+02:00",
+                "message": "Add loger"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "JSONandXMLEnd",
+                "date": "2017-09-28T16:27:20+02:00",
+                "message": "Chenage Package"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "JSONandXMLEnd",
+                "date": "2017-10-05T22:29:22+02:00",
+                "message": "Merge remote-tracking branch 'origin/Feature/Logger' into develop# Conflicts:#\tPracowaniaProgramowania/src/main/java/example/HelloWorld.java"
+            },
+            {
+                "author": "WitMar",
+                "branch": "JSONandXMLEnd",
+                "date": "2017-10-06T13:06:06+02:00",
+                "message": "Merge branch 'Feature/Logger' into develop"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "JSONandXMLEnd",
+                "date": "2017-10-06T13:17:58+02:00",
+                "message": "change pom"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "JSONandXMLEnd",
+                "date": "2017-10-11T10:23:10+02:00",
+                "message": "Merge remote-tracking branch 'origin/develop' into develop"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "JSONandXMLEnd",
+                "date": "2017-10-11T10:31:57+02:00",
+                "message": "Second Class start"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "JSONandXMLEnd",
+                "date": "2017-10-11T12:20:39+02:00",
+                "message": "Second Class"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "JSONandXMLEnd",
+                "date": "2017-10-11T13:43:24+02:00",
+                "message": "Second Class"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "JSONandXMLEnd",
+                "date": "2017-10-11T13:50:32+02:00",
+                "message": "Java 1_8"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "JSONandXMLEnd",
+                "date": "2017-10-31T09:26:39+01:00",
+                "message": "Hibernate"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "JSONandXMLEnd",
+                "date": "2017-10-31T10:18:44+01:00",
+                "message": "Hibernate"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "JSONandXMLEnd",
+                "date": "2017-10-31T13:50:23+01:00",
+                "message": "Hibernate"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "JSONandXMLEnd",
+                "date": "2017-10-31T20:49:09+01:00",
+                "message": "Hibernate"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "JSONandXMLEnd",
+                "date": "2017-10-31T23:32:33+01:00",
+                "message": "Hibernate"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "JSONandXMLEnd",
+                "date": "2017-11-01T00:12:29+01:00",
+                "message": "Hibernate"
+            },
+            {
+                "author": "WitMar",
+                "branch": "JSONandXMLEnd",
+                "date": "2017-11-07T10:38:43+01:00",
+                "message": "iml"
+            },
+            {
+                "author": "Tomasz Zietkiewicz",
+                "branch": "JSONandXMLEnd",
+                "date": "2017-11-07T10:43:26+01:00",
+                "message": "JSON serialization example"
+            },
+            {
+                "author": "Tomasz Zietkiewicz",
+                "branch": "JSONandXMLEnd",
+                "date": "2017-11-07T10:43:26+01:00",
+                "message": "Added travic yml config file"
+            },
+            {
+                "author": "Tomasz Zietkiewicz",
+                "branch": "JSONandXMLEnd",
+                "date": "2017-11-07T10:43:26+01:00",
+                "message": "Fixed travis file location"
+            },
+            {
+                "author": "Tomasz Zietkiewicz",
+                "branch": "JSONandXMLEnd",
+                "date": "2017-11-07T10:43:26+01:00",
+                "message": "Added cd before build"
+            },
+            {
+                "author": "Tomasz Zietkiewicz",
+                "branch": "JSONandXMLEnd",
+                "date": "2017-11-07T10:46:14+01:00",
+                "message": "Gson tests and examples"
+            },
+            {
+                "author": "Tomasz Zietkiewicz",
+                "branch": "JSONandXMLEnd",
+                "date": "2017-11-07T17:21:26+01:00",
+                "message": "Jackson"
+            },
+            {
+                "author": "Tomasz Zietkiewicz",
+                "branch": "JSONandXMLEnd",
+                "date": "2017-11-07T17:24:00+01:00",
+                "message": "Added course materials"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "JSONandXMLEnd",
+                "date": "2017-11-09T19:38:55+01:00",
+                "message": "change pom"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "JSONandXMLEnd",
+                "date": "2017-11-09T21:52:23+01:00",
+                "message": "Starting Code"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "JSONandXMLEnd",
+                "date": "2017-11-10T10:23:42+01:00",
+                "message": "pom add Jackson"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "JSONandXMLEnd",
+                "date": "2018-10-24T20:46:46+02:00",
+                "message": "2018/2019 class start"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "JSONandXMLEnd",
+                "date": "2018-10-24T21:36:01+02:00",
+                "message": "add lambdas"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "JSONandXMLEnd",
+                "date": "2018-10-24T21:38:15+02:00",
+                "message": "add lambdas"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "JSONandXMLEnd",
+                "date": "2018-10-24T21:40:02+02:00",
+                "message": "add pom"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "JSONandXMLEnd",
+                "date": "2019-10-24T11:24:03+02:00",
+                "message": "add xjc"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "JSONandXMLEnd",
+                "date": "2019-10-24T11:26:01+02:00",
+                "message": "add xjc"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "JSONandXMLEnd",
+                "date": "2020-11-15T18:53:40+01:00",
+                "message": "changes for class 2020"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "JSONandXMLEnd",
+                "date": "2020-11-15T18:56:54+01:00",
+                "message": "changes for class 2020"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "JSONandXMLEnd",
+                "date": "2020-11-15T18:58:26+01:00",
+                "message": "changes for class 2020"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "JSONandXMLEnd",
+                "date": "2020-11-15T20:26:44+01:00",
+                "message": "final code 2020 changes"
+            }
+        ],
+        "authors": [
+            "Tomasz Zietkiewicz",
+            "WitMar",
+            "marcin witkowski",
+            "witkowski.mar@gmail.com"
+        ]
+    },
+    "JSONandXMLStart": {
+        "commits": [
+            {
+                "author": "WitMar",
+                "branch": "JSONandXMLStart",
+                "date": "2017-09-28T12:19:00+02:00",
+                "message": "Initial commit"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "JSONandXMLStart",
+                "date": "2017-09-28T12:41:32+02:00",
+                "message": "Hello World"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "JSONandXMLStart",
+                "date": "2017-09-28T12:59:27+02:00",
+                "message": "chnage Maven art name"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "JSONandXMLStart",
+                "date": "2017-09-28T13:17:59+02:00",
+                "message": "Ignore Ideaj Files"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "JSONandXMLStart",
+                "date": "2017-09-28T16:25:06+02:00",
+                "message": "Add loger"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "JSONandXMLStart",
+                "date": "2017-09-28T16:27:20+02:00",
+                "message": "Chenage Package"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "JSONandXMLStart",
+                "date": "2017-10-05T22:29:22+02:00",
+                "message": "Merge remote-tracking branch 'origin/Feature/Logger' into develop# Conflicts:#\tPracowaniaProgramowania/src/main/java/example/HelloWorld.java"
+            },
+            {
+                "author": "WitMar",
+                "branch": "JSONandXMLStart",
+                "date": "2017-10-06T13:06:06+02:00",
+                "message": "Merge branch 'Feature/Logger' into develop"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "JSONandXMLStart",
+                "date": "2017-10-06T13:17:58+02:00",
+                "message": "change pom"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "JSONandXMLStart",
+                "date": "2017-10-11T10:23:10+02:00",
+                "message": "Merge remote-tracking branch 'origin/develop' into develop"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "JSONandXMLStart",
+                "date": "2017-10-11T10:31:57+02:00",
+                "message": "Second Class start"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "JSONandXMLStart",
+                "date": "2017-10-11T12:20:39+02:00",
+                "message": "Second Class"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "JSONandXMLStart",
+                "date": "2017-10-11T13:43:24+02:00",
+                "message": "Second Class"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "JSONandXMLStart",
+                "date": "2017-10-11T13:50:32+02:00",
+                "message": "Java 1_8"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "JSONandXMLStart",
+                "date": "2017-10-31T09:26:39+01:00",
+                "message": "Hibernate"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "JSONandXMLStart",
+                "date": "2017-10-31T10:18:44+01:00",
+                "message": "Hibernate"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "JSONandXMLStart",
+                "date": "2017-10-31T13:50:23+01:00",
+                "message": "Hibernate"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "JSONandXMLStart",
+                "date": "2017-10-31T20:49:09+01:00",
+                "message": "Hibernate"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "JSONandXMLStart",
+                "date": "2017-10-31T23:32:33+01:00",
+                "message": "Hibernate"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "JSONandXMLStart",
+                "date": "2017-11-01T00:12:29+01:00",
+                "message": "Hibernate"
+            },
+            {
+                "author": "WitMar",
+                "branch": "JSONandXMLStart",
+                "date": "2017-11-07T10:38:43+01:00",
+                "message": "iml"
+            },
+            {
+                "author": "Tomasz Zietkiewicz",
+                "branch": "JSONandXMLStart",
+                "date": "2017-11-07T10:43:26+01:00",
+                "message": "JSON serialization example"
+            },
+            {
+                "author": "Tomasz Zietkiewicz",
+                "branch": "JSONandXMLStart",
+                "date": "2017-11-07T10:43:26+01:00",
+                "message": "Added travic yml config file"
+            },
+            {
+                "author": "Tomasz Zietkiewicz",
+                "branch": "JSONandXMLStart",
+                "date": "2017-11-07T10:43:26+01:00",
+                "message": "Fixed travis file location"
+            },
+            {
+                "author": "Tomasz Zietkiewicz",
+                "branch": "JSONandXMLStart",
+                "date": "2017-11-07T10:43:26+01:00",
+                "message": "Added cd before build"
+            },
+            {
+                "author": "Tomasz Zietkiewicz",
+                "branch": "JSONandXMLStart",
+                "date": "2017-11-07T10:46:14+01:00",
+                "message": "Gson tests and examples"
+            },
+            {
+                "author": "Tomasz Zietkiewicz",
+                "branch": "JSONandXMLStart",
+                "date": "2017-11-07T17:21:26+01:00",
+                "message": "Jackson"
+            },
+            {
+                "author": "Tomasz Zietkiewicz",
+                "branch": "JSONandXMLStart",
+                "date": "2017-11-07T17:24:00+01:00",
+                "message": "Added course materials"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "JSONandXMLStart",
+                "date": "2017-11-09T19:38:55+01:00",
+                "message": "change pom"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "JSONandXMLStart",
+                "date": "2017-11-09T21:52:23+01:00",
+                "message": "Starting Code"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "JSONandXMLStart",
+                "date": "2017-11-10T10:23:42+01:00",
+                "message": "pom add Jackson"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "JSONandXMLStart",
+                "date": "2018-10-24T20:46:46+02:00",
+                "message": "2018/2019 class start"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "JSONandXMLStart",
+                "date": "2018-10-24T21:36:01+02:00",
+                "message": "add lambdas"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "JSONandXMLStart",
+                "date": "2018-10-24T21:38:15+02:00",
+                "message": "add lambdas"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "JSONandXMLStart",
+                "date": "2018-10-24T21:40:02+02:00",
+                "message": "add pom"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "JSONandXMLStart",
+                "date": "2019-10-24T11:24:03+02:00",
+                "message": "add xjc"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "JSONandXMLStart",
+                "date": "2019-10-24T11:26:01+02:00",
+                "message": "add xjc"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "JSONandXMLStart",
+                "date": "2020-11-15T18:53:40+01:00",
+                "message": "changes for class 2020"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "JSONandXMLStart",
+                "date": "2020-11-15T18:56:54+01:00",
+                "message": "changes for class 2020"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "JSONandXMLStart",
+                "date": "2020-11-15T18:58:26+01:00",
+                "message": "changes for class 2020"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "JSONandXMLStart",
+                "date": "2020-11-15T20:28:16+01:00",
+                "message": "start code 2020 changes"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "JSONandXMLStart",
+                "date": "2021-10-27T23:49:46+02:00",
+                "message": "Change in POM"
+            }
+        ],
+        "authors": [
+            "Tomasz Zietkiewicz",
+            "WitMar",
+            "marcin witkowski",
+            "witkowski.mar@gmail.com"
+        ]
+    },
+    "Master": {
+        "commits": [
+            {
+                "author": "marcin witkowski",
+                "branch": "Master",
+                "date": "2020-10-18T16:24:11+02:00",
+                "message": "Initial commit"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "Master",
+                "date": "2020-10-18T16:58:41+02:00",
+                "message": "set up maven compilation version"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "Master",
+                "date": "2020-10-18T17:00:15+02:00",
+                "message": "add resource file"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "Master",
+                "date": "2021-10-03T17:54:27+02:00",
+                "message": "Zmiana komunikatu"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "Master",
+                "date": "2021-10-03T18:24:04+02:00",
+                "message": "Master"
+            }
+        ],
+        "authors": [
+            "marcin witkowski"
+        ]
+    },
+    "ReactEnd": {
+        "commits": [
+            {
+                "author": "marcin witkowski",
+                "branch": "ReactEnd",
+                "date": "2020-12-28T17:43:46+01:00",
+                "message": "React init"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "ReactEnd",
+                "date": "2020-12-28T17:45:10+01:00",
+                "message": "readme clean"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "ReactEnd",
+                "date": "2020-12-28T19:37:38+01:00",
+                "message": "update todo model"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "ReactEnd",
+                "date": "2020-12-28T20:50:44+01:00",
+                "message": "db.json change"
+            },
+            {
+                "author": "mawit",
+                "branch": "ReactEnd",
+                "date": "2021-12-19T16:25:30+01:00",
+                "message": "change index"
+            },
+            {
+                "author": "mawit",
+                "branch": "ReactEnd",
+                "date": "2021-12-19T17:27:33+01:00",
+                "message": "final code"
+            }
+        ],
+        "authors": [
+            "marcin witkowski",
+            "mawit"
+        ]
+    },
+    "ReactStart": {
+        "commits": [
+            {
+                "author": "marcin witkowski",
+                "branch": "ReactStart",
+                "date": "2020-12-28T17:43:46+01:00",
+                "message": "React init"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "ReactStart",
+                "date": "2020-12-28T17:45:10+01:00",
+                "message": "readme clean"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "ReactStart",
+                "date": "2020-12-28T19:37:38+01:00",
+                "message": "update todo model"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "ReactStart",
+                "date": "2020-12-28T20:50:44+01:00",
+                "message": "db.json change"
+            },
+            {
+                "author": "mawit",
+                "branch": "ReactStart",
+                "date": "2021-12-19T16:25:30+01:00",
+                "message": "change index"
+            }
+        ],
+        "authors": [
+            "marcin witkowski",
+            "mawit"
+        ]
+    },
+    "SpringBootEnd": {
+        "commits": [
+            {
+                "author": "Anwar Ziani",
+                "branch": "SpringBootEnd",
+                "date": "2015-12-30T02:58:41Z",
+                "message": "init"
+            },
+            {
+                "author": "Anwar Ziani",
+                "branch": "SpringBootEnd",
+                "date": "2015-12-30T03:46:09Z",
+                "message": "Update"
+            },
+            {
+                "author": "Anwar Ziani",
+                "branch": "SpringBootEnd",
+                "date": "2015-12-30T23:38:14Z",
+                "message": "Create README"
+            },
+            {
+                "author": "Anwar Ziani",
+                "branch": "SpringBootEnd",
+                "date": "2015-12-30T23:41:42Z",
+                "message": "Update README"
+            },
+            {
+                "author": "Anwar Ziani",
+                "branch": "SpringBootEnd",
+                "date": "2015-12-30T23:49:13Z",
+                "message": "Update README"
+            },
+            {
+                "author": "Anwar Ziani",
+                "branch": "SpringBootEnd",
+                "date": "2016-01-05T03:16:18Z",
+                "message": "Update README"
+            },
+            {
+                "author": "Anwar Ziani",
+                "branch": "SpringBootEnd",
+                "date": "2016-07-12T02:52:09+01:00",
+                "message": "update"
+            },
+            {
+                "author": "Do Nhu Vy",
+                "branch": "SpringBootEnd",
+                "date": "2016-11-06T20:25:57+07:00",
+                "message": "Update Spring Boot, Bootstrap version, polish source code"
+            },
+            {
+                "author": "Do Nhu Vy",
+                "branch": "SpringBootEnd",
+                "date": "2016-11-06T20:29:13+07:00",
+                "message": "Add database script."
+            },
+            {
+                "author": "Anwar Ziani",
+                "branch": "SpringBootEnd",
+                "date": "2016-11-06T15:21:37Z",
+                "message": "Merge pull request #1 from donhuvy/masterUpdate SpringBoot, Bootstrap version, add database script and polish source code"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "SpringBootEnd",
+                "date": "2017-11-26T18:00:33+01:00",
+                "message": "Spring Project"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "SpringBootEnd",
+                "date": "2017-12-07T17:31:40+01:00",
+                "message": "Spring second update"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "SpringBootEnd",
+                "date": "2017-12-07T17:59:11+01:00",
+                "message": "Spring second update"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "SpringBootEnd",
+                "date": "2017-12-07T18:03:26+01:00",
+                "message": "Spring update"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "SpringBootEnd",
+                "date": "2017-12-07T18:03:55+01:00",
+                "message": "Spring update"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "SpringBootEnd",
+                "date": "2017-12-07T18:07:11+01:00",
+                "message": "Spring update"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "SpringBootEnd",
+                "date": "2017-12-07T18:07:31+01:00",
+                "message": "Spring update"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "SpringBootEnd",
+                "date": "2017-12-07T22:29:09+01:00",
+                "message": "Spring fix ManyToOne"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "SpringBootEnd",
+                "date": "2018-12-16T15:42:29+01:00",
+                "message": "fix redirect"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "SpringBootEnd",
+                "date": "2018-12-20T09:59:45+01:00",
+                "message": "fix maven build"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "SpringBootEnd",
+                "date": "2019-12-15T20:03:45+01:00",
+                "message": "corrections"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "SpringBootEnd",
+                "date": "2019-12-15T20:28:32+01:00",
+                "message": "corrections"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "SpringBootEnd",
+                "date": "2020-01-28T20:26:23+01:00",
+                "message": "upgrade Spring to 2 and make work with java 11"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "SpringBootEnd",
+                "date": "2020-12-21T10:18:45+01:00",
+                "message": "changes 2021, upgrade sprin version"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "SpringBootEnd",
+                "date": "2020-12-21T11:33:47+01:00",
+                "message": "change mappings annotations"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "SpringBootEnd",
+                "date": "2020-12-21T11:52:52+01:00",
+                "message": "change mappings annotations"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "SpringBootEnd",
+                "date": "2020-12-21T13:13:11+01:00",
+                "message": "Change date to Joda"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "SpringBootEnd",
+                "date": "2020-12-21T13:16:02+01:00",
+                "message": "update controller"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "SpringBootEnd",
+                "date": "2021-12-05T13:32:40+01:00",
+                "message": "code classes"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "SpringBootEnd",
+                "date": "2021-12-05T13:43:48+01:00",
+                "message": "pom update"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "SpringBootEnd",
+                "date": "2021-12-05T14:14:47+01:00",
+                "message": "code update"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "SpringBootEnd",
+                "date": "2021-12-05T16:12:25+01:00",
+                "message": "final code"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "SpringBootEnd",
+                "date": "2021-12-12T19:51:16+01:00",
+                "message": "code changes fot Tomcat java 1.8 safe"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "SpringBootEnd",
+                "date": "2021-12-12T19:54:16+01:00",
+                "message": "code changes fot Tomcat java 1.8 safe"
+            },
+            {
+                "author": "mawit",
+                "branch": "SpringBootEnd",
+                "date": "2021-12-13T13:33:20+01:00",
+                "message": "revert pom"
+            }
+        ],
+        "authors": [
+            "Anwar Ziani",
+            "Do Nhu Vy",
+            "marcin witkowski",
+            "mawit"
+        ]
+    },
+    "SpringBootStart": {
+        "commits": [
+            {
+                "author": "Anwar Ziani",
+                "branch": "SpringBootStart",
+                "date": "2015-12-30T02:58:41Z",
+                "message": "init"
+            },
+            {
+                "author": "Anwar Ziani",
+                "branch": "SpringBootStart",
+                "date": "2015-12-30T03:46:09Z",
+                "message": "Update"
+            },
+            {
+                "author": "Anwar Ziani",
+                "branch": "SpringBootStart",
+                "date": "2015-12-30T23:38:14Z",
+                "message": "Create README"
+            },
+            {
+                "author": "Anwar Ziani",
+                "branch": "SpringBootStart",
+                "date": "2015-12-30T23:41:42Z",
+                "message": "Update README"
+            },
+            {
+                "author": "Anwar Ziani",
+                "branch": "SpringBootStart",
+                "date": "2015-12-30T23:49:13Z",
+                "message": "Update README"
+            },
+            {
+                "author": "Anwar Ziani",
+                "branch": "SpringBootStart",
+                "date": "2016-01-05T03:16:18Z",
+                "message": "Update README"
+            },
+            {
+                "author": "Anwar Ziani",
+                "branch": "SpringBootStart",
+                "date": "2016-07-12T02:52:09+01:00",
+                "message": "update"
+            },
+            {
+                "author": "Do Nhu Vy",
+                "branch": "SpringBootStart",
+                "date": "2016-11-06T20:25:57+07:00",
+                "message": "Update Spring Boot, Bootstrap version, polish source code"
+            },
+            {
+                "author": "Do Nhu Vy",
+                "branch": "SpringBootStart",
+                "date": "2016-11-06T20:29:13+07:00",
+                "message": "Add database script."
+            },
+            {
+                "author": "Anwar Ziani",
+                "branch": "SpringBootStart",
+                "date": "2016-11-06T15:21:37Z",
+                "message": "Merge pull request #1 from donhuvy/masterUpdate SpringBoot, Bootstrap version, add database script and polish source code"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "SpringBootStart",
+                "date": "2017-11-26T18:00:33+01:00",
+                "message": "Spring Project"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "SpringBootStart",
+                "date": "2017-12-07T17:31:40+01:00",
+                "message": "Spring second update"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "SpringBootStart",
+                "date": "2017-12-07T17:59:11+01:00",
+                "message": "Spring second update"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "SpringBootStart",
+                "date": "2017-12-07T18:03:26+01:00",
+                "message": "Spring update"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "SpringBootStart",
+                "date": "2017-12-07T18:03:55+01:00",
+                "message": "Spring update"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "SpringBootStart",
+                "date": "2017-12-07T18:07:11+01:00",
+                "message": "Spring update"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "SpringBootStart",
+                "date": "2017-12-07T18:07:31+01:00",
+                "message": "Spring update"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "SpringBootStart",
+                "date": "2017-12-07T22:29:09+01:00",
+                "message": "Spring fix ManyToOne"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "SpringBootStart",
+                "date": "2018-12-16T15:42:29+01:00",
+                "message": "fix redirect"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "SpringBootStart",
+                "date": "2018-12-20T09:59:45+01:00",
+                "message": "fix maven build"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "SpringBootStart",
+                "date": "2019-12-15T20:03:45+01:00",
+                "message": "corrections"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "SpringBootStart",
+                "date": "2019-12-15T20:28:32+01:00",
+                "message": "corrections"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "SpringBootStart",
+                "date": "2020-01-28T20:26:23+01:00",
+                "message": "upgrade Spring to 2 and make work with java 11"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "SpringBootStart",
+                "date": "2020-12-21T10:18:45+01:00",
+                "message": "changes 2021, upgrade sprin version"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "SpringBootStart",
+                "date": "2020-12-21T11:33:47+01:00",
+                "message": "change mappings annotations"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "SpringBootStart",
+                "date": "2020-12-21T11:52:52+01:00",
+                "message": "change mappings annotations"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "SpringBootStart",
+                "date": "2020-12-21T13:13:11+01:00",
+                "message": "Change date to Joda"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "SpringBootStart",
+                "date": "2020-12-21T13:16:02+01:00",
+                "message": "update controller"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "SpringBootStart",
+                "date": "2021-12-05T13:32:40+01:00",
+                "message": "code classes"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "SpringBootStart",
+                "date": "2021-12-05T13:43:48+01:00",
+                "message": "pom update"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "SpringBootStart",
+                "date": "2021-12-05T14:14:47+01:00",
+                "message": "code update"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "SpringBootStart",
+                "date": "2021-12-05T17:39:50+01:00",
+                "message": "code changes"
+            },
+            {
+                "author": "WitMar",
+                "branch": "SpringBootStart",
+                "date": "2021-12-05T20:19:10+01:00",
+                "message": "startClass"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "SpringBootStart",
+                "date": "2021-12-12T19:53:04+01:00",
+                "message": "code changes fot Tomcat java 1.8 safe"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "SpringBootStart",
+                "date": "2021-12-12T19:53:22+01:00",
+                "message": "Merge remote-tracking branch 'NOWE/SpringBootStart' into SpringBootStartaa"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "SpringBootStart",
+                "date": "2021-12-12T19:54:46+01:00",
+                "message": "code changes fot Tomcat java 1.8 safe"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "SpringBootStart",
+                "date": "2021-12-12T19:55:29+01:00",
+                "message": "Merge remote-tracking branch 'NOWE/SpringBootStart' into SpringBootStartss# Conflicts:#\tpom.xml"
+            },
+            {
+                "author": "mawit",
+                "branch": "SpringBootStart",
+                "date": "2021-12-13T13:34:42+01:00",
+                "message": "revert pom"
+            }
+        ],
+        "authors": [
+            "Anwar Ziani",
+            "Do Nhu Vy",
+            "THINK",
+            "marcin witkowski",
+            "mawit"
+        ]
+    },
+    "SpringEnd": {
+        "commits": [
+            {
+                "author": "marcin witkowski",
+                "branch": "SpringEnd",
+                "date": "2018-11-28T20:40:43+01:00",
+                "message": "InitialCommit"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "SpringEnd",
+                "date": "2018-11-28T20:43:24+01:00",
+                "message": "InitialCommit"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "SpringEnd",
+                "date": "2018-11-28T20:44:02+01:00",
+                "message": "InitialCommit"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "SpringEnd",
+                "date": "2020-12-12T11:54:13+01:00",
+                "message": "add gitignore"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "SpringEnd",
+                "date": "2020-12-12T11:54:39+01:00",
+                "message": "add gitignore"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "SpringEnd",
+                "date": "2020-12-13T20:43:07+01:00",
+                "message": "add http request"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "SpringEnd",
+                "date": "2021-11-28T18:39:51+01:00",
+                "message": "code classes"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "SpringEnd",
+                "date": "2021-11-28T19:02:09+01:00",
+                "message": "code classes"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "SpringEnd",
+                "date": "2021-11-28T19:04:32+01:00",
+                "message": "code classes"
+            }
+        ],
+        "authors": [
+            "marcin witkowski"
+        ]
+    },
+    "SpringSecurityReactStart": {
+        "commits": [
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityReactStart",
+                "date": "2018-10-01T09:52:57+05:18",
+                "message": "Initial Commit"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityReactStart",
+                "date": "2018-10-01T10:27:14+05:18",
+                "message": "Refactor backend"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityReactStart",
+                "date": "2018-10-01T11:16:42+05:18",
+                "message": "cleanup"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityReactStart",
+                "date": "2018-10-01T11:42:53+05:18",
+                "message": "Add imageUrl in UserProfile"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityReactStart",
+                "date": "2018-10-01T12:18:59+05:18",
+                "message": "added userprofile api"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityReactStart",
+                "date": "2018-10-01T12:30:48+05:18",
+                "message": "Frontend Project Setup"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityReactStart",
+                "date": "2018-10-03T11:30:13+05:18",
+                "message": "Frontend Functionalities"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityReactStart",
+                "date": "2018-10-03T11:50:42+05:18",
+                "message": "Respond with OAuth2AuthenticationProcessingException in case of OAuth2 errors"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityReactStart",
+                "date": "2018-10-03T12:29:08+05:18",
+                "message": "Added CORS config"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityReactStart",
+                "date": "2018-10-03T12:41:08+05:18",
+                "message": "Fixed Github id mapping and added imageUrl in Oauth2User"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityReactStart",
+                "date": "2018-10-03T12:50:16+05:18",
+                "message": "Profile picture of FB user"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityReactStart",
+                "date": "2018-10-03T13:43:49+05:18",
+                "message": "cleanup"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityReactStart",
+                "date": "2018-10-04T09:19:40+05:18",
+                "message": "Validate Redirect URIs"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityReactStart",
+                "date": "2018-10-04T14:48:03+05:18",
+                "message": "Login and Signup CSS"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityReactStart",
+                "date": "2018-10-04T15:22:24+05:18",
+                "message": "UI"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityReactStart",
+                "date": "2018-10-04T15:48:38+05:18",
+                "message": "AppHeader and Profile UI"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityReactStart",
+                "date": "2018-10-04T16:02:15+05:18",
+                "message": "Using header in login and signup pages as well"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityReactStart",
+                "date": "2018-10-04T23:01:08+05:18",
+                "message": "UI changes"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityReactStart",
+                "date": "2018-10-04T23:15:16+05:18",
+                "message": "Home page UI"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityReactStart",
+                "date": "2018-10-05T12:33:42+05:18",
+                "message": "UI for Profile page and Home page"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityReactStart",
+                "date": "2018-10-05T12:54:14+05:18",
+                "message": "Added NavLink"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityReactStart",
+                "date": "2018-10-05T13:01:36+05:18",
+                "message": "Text Avatar"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityReactStart",
+                "date": "2018-10-05T13:54:09+05:18",
+                "message": "UI"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityReactStart",
+                "date": "2018-10-05T15:25:09+05:18",
+                "message": "Added Toast Notifications"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityReactStart",
+                "date": "2018-10-05T15:49:42+05:18",
+                "message": "OAuth2 Error Handling"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityReactStart",
+                "date": "2018-10-05T15:54:47+05:18",
+                "message": "UI changes"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityReactStart",
+                "date": "2018-10-05T15:57:02+05:18",
+                "message": "NotFound component css"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityReactStart",
+                "date": "2018-10-05T15:57:43+05:18",
+                "message": "fix typo"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityReactStart",
+                "date": "2018-10-05T16:15:31+05:18",
+                "message": "Readme"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityReactStart",
+                "date": "2018-10-05T16:17:06+05:18",
+                "message": "Readme"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityReactStart",
+                "date": "2018-10-05T16:30:46+05:18",
+                "message": "Readme"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityReactStart",
+                "date": "2018-10-05T17:48:33+05:18",
+                "message": "reduced timeout"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityReactStart",
+                "date": "2018-10-05T17:53:40+05:18",
+                "message": "Screenshot"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityReactStart",
+                "date": "2018-10-05T17:57:40+05:18",
+                "message": "Readme"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityReactStart",
+                "date": "2018-10-05T17:58:35+05:18",
+                "message": "Readme"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityReactStart",
+                "date": "2018-10-05T17:59:36+05:18",
+                "message": "Readme"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityReactStart",
+                "date": "2018-10-05T18:00:06+05:18",
+                "message": "Readme"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityReactStart",
+                "date": "2018-10-20T11:40:22+05:18",
+                "message": "UI"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityReactStart",
+                "date": "2018-10-20T11:45:44+05:18",
+                "message": "picture width"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityReactStart",
+                "date": "2018-10-20T11:47:21+05:18",
+                "message": "Use InnoDB dialect"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityReactStart",
+                "date": "2018-10-20T15:14:39+05:18",
+                "message": "cleanup"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityReactStart",
+                "date": "2018-11-09T10:22:19+05:18",
+                "message": "Cleanup"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityReactStart",
+                "date": "2018-11-09T11:26:11+05:18",
+                "message": "cleanup"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityReactStart",
+                "date": "2018-11-09T15:36:58+05:18",
+                "message": "Cleanup"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityReactStart",
+                "date": "2018-11-09T15:39:37+05:18",
+                "message": "cleanup"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityReactStart",
+                "date": "2018-11-17T18:48:43+05:18",
+                "message": "comment"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityReactStart",
+                "date": "2018-11-21T23:45:17+05:18",
+                "message": "Changes for spring boot 2.1.0 upgrade"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityReactStart",
+                "date": "2018-11-22T00:01:31+05:18",
+                "message": "fix name"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityReactStart",
+                "date": "2019-06-21T07:15:40+05:18",
+                "message": " Bump up spring boot version to 2.1.6"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityReactStart",
+                "date": "2019-11-26T13:38:25+05:18",
+                "message": "Bump up spring boot version to 2.2.1"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityReactStart",
+                "date": "2020-01-05T21:39:14+05:18",
+                "message": "Fix redirectUri property"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "SpringSecurityReactStart",
+                "date": "2021-01-18T00:23:53+01:00",
+                "message": "Spring Security"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "SpringSecurityReactStart",
+                "date": "2021-01-18T00:26:28+01:00",
+                "message": "React Spring Security"
+            },
+            {
+                "author": "mawit",
+                "branch": "SpringSecurityReactStart",
+                "date": "2022-01-09T20:18:19+01:00",
+                "message": "simplifying the model"
+            },
+            {
+                "author": "mawit",
+                "branch": "SpringSecurityReactStart",
+                "date": "2022-01-09T20:19:16+01:00",
+                "message": "changes"
+            },
+            {
+                "author": "mawit",
+                "branch": "SpringSecurityReactStart",
+                "date": "2022-01-09T20:20:13+01:00",
+                "message": "Merge remote-tracking branch 'origin/SpringSecurityReactEnd' into SpringSecurityReactEnd"
+            },
+            {
+                "author": "mawit",
+                "branch": "SpringSecurityReactStart",
+                "date": "2022-01-09T20:22:22+01:00",
+                "message": "delete spring"
+            },
+            {
+                "author": "mawit",
+                "branch": "SpringSecurityReactStart",
+                "date": "2022-01-09T21:36:47+01:00",
+                "message": "delete redirect unused"
+            }
+        ],
+        "authors": [
+            "Rajeev Kumar Singh",
+            "Rajeev Singh",
+            "marcin witkowski",
+            "mawit"
+        ]
+    },
+    "SpringSecurityStart": {
+        "commits": [
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityStart",
+                "date": "2018-10-01T09:52:57+05:18",
+                "message": "Initial Commit"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityStart",
+                "date": "2018-10-01T10:27:14+05:18",
+                "message": "Refactor backend"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityStart",
+                "date": "2018-10-01T11:16:42+05:18",
+                "message": "cleanup"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityStart",
+                "date": "2018-10-01T11:42:53+05:18",
+                "message": "Add imageUrl in UserProfile"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityStart",
+                "date": "2018-10-01T12:18:59+05:18",
+                "message": "added userprofile api"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityStart",
+                "date": "2018-10-01T12:30:48+05:18",
+                "message": "Frontend Project Setup"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityStart",
+                "date": "2018-10-03T11:30:13+05:18",
+                "message": "Frontend Functionalities"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityStart",
+                "date": "2018-10-03T11:50:42+05:18",
+                "message": "Respond with OAuth2AuthenticationProcessingException in case of OAuth2 errors"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityStart",
+                "date": "2018-10-03T12:29:08+05:18",
+                "message": "Added CORS config"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityStart",
+                "date": "2018-10-03T12:41:08+05:18",
+                "message": "Fixed Github id mapping and added imageUrl in Oauth2User"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityStart",
+                "date": "2018-10-03T12:50:16+05:18",
+                "message": "Profile picture of FB user"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityStart",
+                "date": "2018-10-03T13:43:49+05:18",
+                "message": "cleanup"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityStart",
+                "date": "2018-10-04T09:19:40+05:18",
+                "message": "Validate Redirect URIs"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityStart",
+                "date": "2018-10-04T14:48:03+05:18",
+                "message": "Login and Signup CSS"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityStart",
+                "date": "2018-10-04T15:22:24+05:18",
+                "message": "UI"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityStart",
+                "date": "2018-10-04T15:48:38+05:18",
+                "message": "AppHeader and Profile UI"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityStart",
+                "date": "2018-10-04T16:02:15+05:18",
+                "message": "Using header in login and signup pages as well"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityStart",
+                "date": "2018-10-04T23:01:08+05:18",
+                "message": "UI changes"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityStart",
+                "date": "2018-10-04T23:15:16+05:18",
+                "message": "Home page UI"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityStart",
+                "date": "2018-10-05T12:33:42+05:18",
+                "message": "UI for Profile page and Home page"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityStart",
+                "date": "2018-10-05T12:54:14+05:18",
+                "message": "Added NavLink"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityStart",
+                "date": "2018-10-05T13:01:36+05:18",
+                "message": "Text Avatar"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityStart",
+                "date": "2018-10-05T13:54:09+05:18",
+                "message": "UI"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityStart",
+                "date": "2018-10-05T15:25:09+05:18",
+                "message": "Added Toast Notifications"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityStart",
+                "date": "2018-10-05T15:49:42+05:18",
+                "message": "OAuth2 Error Handling"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityStart",
+                "date": "2018-10-05T15:54:47+05:18",
+                "message": "UI changes"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityStart",
+                "date": "2018-10-05T15:57:02+05:18",
+                "message": "NotFound component css"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityStart",
+                "date": "2018-10-05T15:57:43+05:18",
+                "message": "fix typo"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityStart",
+                "date": "2018-10-05T16:15:31+05:18",
+                "message": "Readme"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityStart",
+                "date": "2018-10-05T16:17:06+05:18",
+                "message": "Readme"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityStart",
+                "date": "2018-10-05T16:30:46+05:18",
+                "message": "Readme"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityStart",
+                "date": "2018-10-05T17:48:33+05:18",
+                "message": "reduced timeout"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityStart",
+                "date": "2018-10-05T17:53:40+05:18",
+                "message": "Screenshot"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityStart",
+                "date": "2018-10-05T17:57:40+05:18",
+                "message": "Readme"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityStart",
+                "date": "2018-10-05T17:58:35+05:18",
+                "message": "Readme"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityStart",
+                "date": "2018-10-05T17:59:36+05:18",
+                "message": "Readme"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityStart",
+                "date": "2018-10-05T18:00:06+05:18",
+                "message": "Readme"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityStart",
+                "date": "2018-10-20T11:40:22+05:18",
+                "message": "UI"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityStart",
+                "date": "2018-10-20T11:45:44+05:18",
+                "message": "picture width"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityStart",
+                "date": "2018-10-20T11:47:21+05:18",
+                "message": "Use InnoDB dialect"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityStart",
+                "date": "2018-10-20T15:14:39+05:18",
+                "message": "cleanup"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityStart",
+                "date": "2018-11-09T10:22:19+05:18",
+                "message": "Cleanup"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityStart",
+                "date": "2018-11-09T11:26:11+05:18",
+                "message": "cleanup"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityStart",
+                "date": "2018-11-09T15:36:58+05:18",
+                "message": "Cleanup"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityStart",
+                "date": "2018-11-09T15:39:37+05:18",
+                "message": "cleanup"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityStart",
+                "date": "2018-11-17T18:48:43+05:18",
+                "message": "comment"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityStart",
+                "date": "2018-11-21T23:45:17+05:18",
+                "message": "Changes for spring boot 2.1.0 upgrade"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityStart",
+                "date": "2018-11-22T00:01:31+05:18",
+                "message": "fix name"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityStart",
+                "date": "2019-06-21T07:15:40+05:18",
+                "message": " Bump up spring boot version to 2.1.6"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityStart",
+                "date": "2019-11-26T13:38:25+05:18",
+                "message": "Bump up spring boot version to 2.2.1"
+            },
+            {
+                "author": "Rajeev Kumar Singh",
+                "branch": "SpringSecurityStart",
+                "date": "2020-01-05T21:39:14+05:18",
+                "message": "Fix redirectUri property"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "SpringSecurityStart",
+                "date": "2021-01-18T00:23:53+01:00",
+                "message": "Spring Security"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "SpringSecurityStart",
+                "date": "2021-01-18T00:26:28+01:00",
+                "message": "React Spring Security"
+            },
+            {
+                "author": "mawit",
+                "branch": "SpringSecurityStart",
+                "date": "2022-01-09T20:18:19+01:00",
+                "message": "simplifying the model"
+            },
+            {
+                "author": "mawit",
+                "branch": "SpringSecurityStart",
+                "date": "2022-01-09T20:21:44+01:00",
+                "message": "refactor"
+            },
+            {
+                "author": "mawit",
+                "branch": "SpringSecurityStart",
+                "date": "2022-01-10T16:15:38+01:00",
+                "message": "remove react"
+            }
+        ],
+        "authors": [
+            "Rajeev Kumar Singh",
+            "Rajeev Singh",
+            "marcin witkowski",
+            "mawit"
+        ]
+    },
+    "SpringStart": {
+        "commits": [
+            {
+                "author": "marcin witkowski",
+                "branch": "SpringStart",
+                "date": "2018-11-28T20:40:43+01:00",
+                "message": "InitialCommit"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "SpringStart",
+                "date": "2018-11-28T20:43:24+01:00",
+                "message": "InitialCommit"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "SpringStart",
+                "date": "2018-11-28T20:44:02+01:00",
+                "message": "InitialCommit"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "SpringStart",
+                "date": "2020-12-12T11:54:13+01:00",
+                "message": "add gitignore"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "SpringStart",
+                "date": "2020-12-12T11:54:39+01:00",
+                "message": "add gitignore"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "SpringStart",
+                "date": "2020-12-13T20:43:07+01:00",
+                "message": "add http request"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "SpringStart",
+                "date": "2021-11-28T18:39:51+01:00",
+                "message": "code classes"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "SpringStart",
+                "date": "2021-11-28T19:04:57+01:00",
+                "message": "code classes"
+            }
+        ],
+        "authors": [
+            "marcin witkowski"
+        ]
+    },
+    "StreamsAndCollectionsEnd": {
+        "commits": [
+            {
+                "author": "WitMar",
+                "branch": "StreamsAndCollectionsEnd",
+                "date": "2017-09-28T12:19:00+02:00",
+                "message": "Initial commit"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "StreamsAndCollectionsEnd",
+                "date": "2017-09-28T12:41:32+02:00",
+                "message": "Hello World"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "StreamsAndCollectionsEnd",
+                "date": "2017-09-28T12:59:27+02:00",
+                "message": "chnage Maven art name"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "StreamsAndCollectionsEnd",
+                "date": "2017-09-28T13:17:59+02:00",
+                "message": "Ignore Ideaj Files"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "StreamsAndCollectionsEnd",
+                "date": "2017-09-28T16:25:06+02:00",
+                "message": "Add loger"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "StreamsAndCollectionsEnd",
+                "date": "2017-09-28T16:27:20+02:00",
+                "message": "Chenage Package"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "StreamsAndCollectionsEnd",
+                "date": "2017-10-05T22:29:22+02:00",
+                "message": "Merge remote-tracking branch 'origin/Feature/Logger' into develop# Conflicts:#\tPracowaniaProgramowania/src/main/java/example/HelloWorld.java"
+            },
+            {
+                "author": "WitMar",
+                "branch": "StreamsAndCollectionsEnd",
+                "date": "2017-10-06T13:06:06+02:00",
+                "message": "Merge branch 'Feature/Logger' into develop"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "StreamsAndCollectionsEnd",
+                "date": "2017-10-06T13:17:58+02:00",
+                "message": "change pom"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "StreamsAndCollectionsEnd",
+                "date": "2017-10-11T10:23:10+02:00",
+                "message": "Merge remote-tracking branch 'origin/develop' into develop"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "StreamsAndCollectionsEnd",
+                "date": "2017-10-11T10:31:57+02:00",
+                "message": "Second Class start"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "StreamsAndCollectionsEnd",
+                "date": "2017-10-11T12:20:39+02:00",
+                "message": "Second Class"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "StreamsAndCollectionsEnd",
+                "date": "2017-10-11T13:43:24+02:00",
+                "message": "Second Class"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "StreamsAndCollectionsEnd",
+                "date": "2017-10-11T13:50:32+02:00",
+                "message": "Java 1_8"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "StreamsAndCollectionsEnd",
+                "date": "2017-10-31T09:26:39+01:00",
+                "message": "Hibernate"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "StreamsAndCollectionsEnd",
+                "date": "2017-10-31T10:18:44+01:00",
+                "message": "Hibernate"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "StreamsAndCollectionsEnd",
+                "date": "2017-10-31T13:50:23+01:00",
+                "message": "Hibernate"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "StreamsAndCollectionsEnd",
+                "date": "2017-10-31T20:49:09+01:00",
+                "message": "Hibernate"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "StreamsAndCollectionsEnd",
+                "date": "2017-10-31T23:33:23+01:00",
+                "message": "Hibernate"
+            },
+            {
+                "author": "WitMar",
+                "branch": "StreamsAndCollectionsEnd",
+                "date": "2017-11-03T11:09:56+01:00",
+                "message": "fix"
+            },
+            {
+                "author": "WitMar",
+                "branch": "StreamsAndCollectionsEnd",
+                "date": "2017-11-03T11:23:14+01:00",
+                "message": "fix"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "StreamsAndCollectionsEnd",
+                "date": "2017-11-03T21:23:44+01:00",
+                "message": "gitignore, posprzatanie seconda"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "StreamsAndCollectionsEnd",
+                "date": "2018-11-10T14:08:23+01:00",
+                "message": "Start"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "StreamsAndCollectionsEnd",
+                "date": "2018-11-10T14:08:55+01:00",
+                "message": "Start"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "StreamsAndCollectionsEnd",
+                "date": "2018-11-10T15:29:35+01:00",
+                "message": "Add new elements"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "StreamsAndCollectionsEnd",
+                "date": "2019-10-16T17:43:52+02:00",
+                "message": "Classes streams and Collections"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "StreamsAndCollectionsEnd",
+                "date": "2019-10-16T17:58:35+02:00",
+                "message": "Classes streams and Collections start"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "StreamsAndCollectionsEnd",
+                "date": "2019-10-17T18:17:11+02:00",
+                "message": "delete import"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "StreamsAndCollectionsEnd",
+                "date": "2019-10-17T18:19:49+02:00",
+                "message": "task reorder"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "StreamsAndCollectionsEnd",
+                "date": "2020-11-08T19:41:31+01:00",
+                "message": "Refactor"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "StreamsAndCollectionsEnd",
+                "date": "2020-11-08T19:46:17+01:00",
+                "message": "Change name"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "StreamsAndCollectionsEnd",
+                "date": "2020-11-08T20:28:39+01:00",
+                "message": "Classes end"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "StreamsAndCollectionsEnd",
+                "date": "2020-11-08T21:11:25+01:00",
+                "message": "Add lazy"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "StreamsAndCollectionsEnd",
+                "date": "2020-11-08T21:12:20+01:00",
+                "message": "Add lazy"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "StreamsAndCollectionsEnd",
+                "date": "2020-11-11T20:30:41+01:00",
+                "message": "change names, move classes"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "StreamsAndCollectionsEnd",
+                "date": "2020-11-11T20:31:14+01:00",
+                "message": "Merge remote-tracking branch 'NOEW/StreamsAndCollectionsEnd' into StreamsAndCollectionsStart# Conflicts:#\tsrc/main/java/MainLazy.java#\tsrc/main/java/collections/MainEclipseCollections.java#\tsrc/main/java/streams/Task.java"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "StreamsAndCollectionsEnd",
+                "date": "2020-11-11T20:35:43+01:00",
+                "message": "change names, move classes"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "StreamsAndCollectionsEnd",
+                "date": "2021-10-17T18:39:47+02:00",
+                "message": "Add elements"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "StreamsAndCollectionsEnd",
+                "date": "2021-10-17T18:41:00+02:00",
+                "message": "move classes"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "StreamsAndCollectionsEnd",
+                "date": "2021-10-18T21:41:00+02:00",
+                "message": "fixes"
+            }
+        ],
+        "authors": [
+            "WitMar",
+            "marcin witkowski",
+            "witkowski.mar@gmail.com"
+        ]
+    },
+    "StreamsAndCollectionsStart": {
+        "commits": [
+            {
+                "author": "WitMar",
+                "branch": "StreamsAndCollectionsStart",
+                "date": "2017-09-28T12:19:00+02:00",
+                "message": "Initial commit"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "StreamsAndCollectionsStart",
+                "date": "2017-09-28T12:41:32+02:00",
+                "message": "Hello World"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "StreamsAndCollectionsStart",
+                "date": "2017-09-28T12:59:27+02:00",
+                "message": "chnage Maven art name"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "StreamsAndCollectionsStart",
+                "date": "2017-09-28T13:17:59+02:00",
+                "message": "Ignore Ideaj Files"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "StreamsAndCollectionsStart",
+                "date": "2017-09-28T16:25:06+02:00",
+                "message": "Add loger"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "StreamsAndCollectionsStart",
+                "date": "2017-09-28T16:27:20+02:00",
+                "message": "Chenage Package"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "StreamsAndCollectionsStart",
+                "date": "2017-10-05T22:29:22+02:00",
+                "message": "Merge remote-tracking branch 'origin/Feature/Logger' into develop# Conflicts:#\tPracowaniaProgramowania/src/main/java/example/HelloWorld.java"
+            },
+            {
+                "author": "WitMar",
+                "branch": "StreamsAndCollectionsStart",
+                "date": "2017-10-06T13:06:06+02:00",
+                "message": "Merge branch 'Feature/Logger' into develop"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "StreamsAndCollectionsStart",
+                "date": "2017-10-06T13:17:58+02:00",
+                "message": "change pom"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "StreamsAndCollectionsStart",
+                "date": "2017-10-11T10:23:10+02:00",
+                "message": "Merge remote-tracking branch 'origin/develop' into develop"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "StreamsAndCollectionsStart",
+                "date": "2017-10-11T10:31:57+02:00",
+                "message": "Second Class start"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "StreamsAndCollectionsStart",
+                "date": "2017-10-11T12:20:39+02:00",
+                "message": "Second Class"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "StreamsAndCollectionsStart",
+                "date": "2017-10-11T13:43:24+02:00",
+                "message": "Second Class"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "StreamsAndCollectionsStart",
+                "date": "2017-10-11T13:50:32+02:00",
+                "message": "Java 1_8"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "StreamsAndCollectionsStart",
+                "date": "2017-10-31T09:26:39+01:00",
+                "message": "Hibernate"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "StreamsAndCollectionsStart",
+                "date": "2017-10-31T10:18:44+01:00",
+                "message": "Hibernate"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "StreamsAndCollectionsStart",
+                "date": "2017-10-31T13:50:23+01:00",
+                "message": "Hibernate"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "StreamsAndCollectionsStart",
+                "date": "2017-10-31T20:49:09+01:00",
+                "message": "Hibernate"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "StreamsAndCollectionsStart",
+                "date": "2017-10-31T23:33:23+01:00",
+                "message": "Hibernate"
+            },
+            {
+                "author": "WitMar",
+                "branch": "StreamsAndCollectionsStart",
+                "date": "2017-11-03T11:09:56+01:00",
+                "message": "fix"
+            },
+            {
+                "author": "WitMar",
+                "branch": "StreamsAndCollectionsStart",
+                "date": "2017-11-03T11:23:14+01:00",
+                "message": "fix"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "StreamsAndCollectionsStart",
+                "date": "2017-11-03T21:23:44+01:00",
+                "message": "gitignore, posprzatanie seconda"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "StreamsAndCollectionsStart",
+                "date": "2018-11-10T14:08:23+01:00",
+                "message": "Start"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "StreamsAndCollectionsStart",
+                "date": "2018-11-10T14:08:55+01:00",
+                "message": "Start"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "StreamsAndCollectionsStart",
+                "date": "2018-11-10T15:29:35+01:00",
+                "message": "Add new elements"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "StreamsAndCollectionsStart",
+                "date": "2019-10-16T17:43:52+02:00",
+                "message": "Classes streams and Collections"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "StreamsAndCollectionsStart",
+                "date": "2019-10-16T17:58:35+02:00",
+                "message": "Classes streams and Collections start"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "StreamsAndCollectionsStart",
+                "date": "2019-10-17T18:17:11+02:00",
+                "message": "delete import"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "StreamsAndCollectionsStart",
+                "date": "2019-10-17T18:19:49+02:00",
+                "message": "task reorder"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "StreamsAndCollectionsStart",
+                "date": "2020-11-08T19:41:31+01:00",
+                "message": "Refactor"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "StreamsAndCollectionsStart",
+                "date": "2020-11-08T19:46:17+01:00",
+                "message": "Change name"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "StreamsAndCollectionsStart",
+                "date": "2020-11-08T21:12:20+01:00",
+                "message": "Add lazy"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "StreamsAndCollectionsStart",
+                "date": "2020-11-11T20:30:41+01:00",
+                "message": "change names, move classes"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "StreamsAndCollectionsStart",
+                "date": "2021-10-17T17:13:24+02:00",
+                "message": "add functions"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "StreamsAndCollectionsStart",
+                "date": "2021-10-17T18:42:01+02:00",
+                "message": "move classes"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "StreamsAndCollectionsStart",
+                "date": "2021-10-18T21:39:25+02:00",
+                "message": "fix Person constructor"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "StreamsAndCollectionsStart",
+                "date": "2021-10-18T21:40:09+02:00",
+                "message": "delete getMe"
+            }
+        ],
+        "authors": [
+            "WitMar",
+            "marcin witkowski",
+            "witkowski.mar@gmail.com"
+        ]
+    },
+    "TestAndDebugEnd": {
+        "commits": [
+            {
+                "author": "marcin witkowski",
+                "branch": "TestAndDebugEnd",
+                "date": "2020-10-18T16:24:11+02:00",
+                "message": "Initial commit"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "TestAndDebugEnd",
+                "date": "2020-10-18T16:58:41+02:00",
+                "message": "set up maven compilation version"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "TestAndDebugEnd",
+                "date": "2020-10-18T17:00:15+02:00",
+                "message": "add resource file"
+            },
+            {
+                "author": "WitMar",
+                "branch": "TestAndDebugEnd",
+                "date": "2020-10-26T19:12:52+01:00",
+                "message": "fix repo"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "TestAndDebugEnd",
+                "date": "2021-10-10T18:17:31+02:00",
+                "message": "Change java to 11"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "TestAndDebugEnd",
+                "date": "2021-10-10T18:19:39+02:00",
+                "message": "ugly code"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "TestAndDebugEnd",
+                "date": "2021-10-10T18:45:11+02:00",
+                "message": "końcowy kod"
+            }
+        ],
+        "authors": [
+            "THINK",
+            "marcin witkowski"
+        ]
+    },
+    "TestAndDebugStart": {
+        "commits": [
+            {
+                "author": "marcin witkowski",
+                "branch": "TestAndDebugStart",
+                "date": "2020-10-18T16:24:11+02:00",
+                "message": "Initial commit"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "TestAndDebugStart",
+                "date": "2020-10-18T16:58:41+02:00",
+                "message": "set up maven compilation version"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "TestAndDebugStart",
+                "date": "2020-10-18T17:00:15+02:00",
+                "message": "add resource file"
+            },
+            {
+                "author": "WitMar",
+                "branch": "TestAndDebugStart",
+                "date": "2020-10-26T19:12:52+01:00",
+                "message": "fix repo"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "TestAndDebugStart",
+                "date": "2021-10-10T18:17:31+02:00",
+                "message": "Change java to 11"
+            },
+            {
+                "author": "marcin witkowski",
+                "branch": "TestAndDebugStart",
+                "date": "2021-10-10T18:19:39+02:00",
+                "message": "ugly code"
+            }
+        ],
+        "authors": [
+            "THINK",
+            "marcin witkowski"
+        ]
+    }
+}
