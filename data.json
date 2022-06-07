@@ -1,0 +1,205 @@
+{
+   "repo_name":"PRA2021-PRA2022",
+   "HibernateEnd":{
+      "commits":[
+         {
+            "author":"WitMar",
+            "branch":"HibernateEnd",
+            "date":"2017-09-28T12:19:00+02:00",
+            "message":"Initial commit"
+         },
+         {
+            "author":"marcin witkowski",
+            "branch":"HibernateEnd",
+            "date":"2017-09-28T12:41:32+02:00",
+            "message":"Hello World"
+         },
+         {
+            "author":"marcin witkowski",
+            "branch":"HibernateEnd",
+            "date":"2017-09-28T12:59:27+02:00",
+            "message":"chnage Maven art name"
+         },
+         {
+            "author":"marcin witkowski",
+            "branch":"HibernateEnd",
+            "date":"2017-09-28T13:17:59+02:00",
+            "message":"Ignore Ideaj Files"
+         },
+         {
+            "author":"marcin witkowski",
+            "branch":"HibernateEnd",
+            "date":"2017-09-28T16:25:06+02:00",
+            "message":"Add loger"
+         },
+         {
+            "author":"marcin witkowski",
+            "branch":"HibernateEnd",
+            "date":"2017-09-28T16:27:20+02:00",
+            "message":"Chenage Package"
+         },
+         {
+            "author":"marcin witkowski",
+            "branch":"HibernateEnd",
+            "date":"2017-10-05T22:29:22+02:00",
+            "message":"Merge remote-tracking branch 'origin/Feature/Logger' into develop# Conflicts:#\tPracowaniaProgramowania/src/main/java/example/HelloWorld.java"
+         },
+         {
+            "author":"WitMar",
+            "branch":"HibernateEnd",
+            "date":"2017-10-06T13:06:06+02:00",
+            "message":"Merge branch 'Feature/Logger' into develop"
+         },
+         {
+            "author":"marcin witkowski",
+            "branch":"HibernateEnd",
+            "date":"2017-10-06T13:17:58+02:00",
+            "message":"change pom"
+         },
+         {
+            "author":"marcin witkowski",
+            "branch":"HibernateEnd",
+            "date":"2017-10-11T10:23:10+02:00",
+            "message":"Merge remote-tracking branch 'origin/develop' into develop"
+         },
+         {
+            "author":"marcin witkowski",
+            "branch":"HibernateEnd",
+            "date":"2017-10-11T10:31:57+02:00",
+            "message":"Second Class start"
+         },
+         {
+            "author":"marcin witkowski",
+            "branch":"HibernateEnd",
+            "date":"2017-10-11T12:20:39+02:00",
+            "message":"Second Class"
+         },
+         {
+            "author":"marcin witkowski",
+            "branch":"HibernateEnd",
+            "date":"2017-10-11T13:43:24+02:00",
+            "message":"Second Class"
+         },
+         {
+            "author":"marcin witkowski",
+            "branch":"HibernateEnd",
+            "date":"2017-10-11T13:50:32+02:00",
+            "message":"Java 1_8"
+         },
+         {
+            "author":"marcin witkowski",
+            "branch":"HibernateEnd",
+            "date":"2017-10-31T09:26:39+01:00",
+            "message":"Hibernate"
+         },
+         {
+            "author":"marcin witkowski",
+            "branch":"HibernateEnd",
+            "date":"2017-10-31T10:18:44+01:00",
+            "message":"Hibernate"
+         },
+         {
+            "author":"marcin witkowski",
+            "branch":"HibernateEnd",
+            "date":"2017-10-31T13:50:23+01:00",
+            "message":"Hibernate"
+         },
+         {
+            "author":"marcin witkowski",
+            "branch":"HibernateEnd",
+            "date":"2017-10-31T20:49:09+01:00",
+            "message":"Hibernate"
+         },
+         {
+            "author":"marcin witkowski",
+            "branch":"HibernateEnd",
+            "date":"2017-10-31T23:33:23+01:00",
+            "message":"Hibernate"
+         },
+         {
+            "author":"WitMar",
+            "branch":"HibernateEnd",
+            "date":"2017-11-03T11:09:56+01:00",
+            "message":"fix"
+         },
+         {
+            "author":"WitMar",
+            "branch":"HibernateEnd",
+            "date":"2017-11-03T11:23:14+01:00",
+            "message":"fix"
+         },
+         {
+            "author":"marcin witkowski",
+            "branch":"HibernateEnd",
+            "date":"2017-11-03T21:23:44+01:00",
+            "message":"gitignore, posprzatanie seconda"
+         },
+         {
+            "author":"marcin witkowski",
+            "branch":"HibernateEnd",
+            "date":"2018-11-10T14:08:23+01:00",
+            "message":"Start"
+         },
+         {
+            "author":"marcin witkowski",
+            "branch":"HibernateEnd",
+            "date":"2018-11-10T14:08:55+01:00",
+            "message":"Start"
+         },
+         {
+            "author":"marcin witkowski",
+            "branch":"HibernateEnd",
+            "date":"2018-11-10T15:29:35+01:00",
+            "message":"Add new elements"
+         },
+         {
+            "author":"marcin witkowski",
+            "branch":"HibernateEnd",
+            "date":"2020-11-29T20:26:35+01:00",
+            "message":"start code 2020 changes"
+         },
+         {
+            "author":"WitMar",
+            "branch":"HibernateEnd",
+            "date":"2020-11-30T19:09:33+01:00",
+            "message":"fix driver"
+         },
+         {
+            "author":"marcin witkowski",
+            "branch":"HibernateEnd",
+            "date":"2021-11-21T15:30:21+01:00",
+            "message":"Refactor"
+         },
+         {
+            "author":"marcin witkowski",
+            "branch":"HibernateEnd",
+            "date":"2021-11-21T15:57:17+01:00",
+            "message":"Refactor"
+         },
+         {
+            "author":"marcin witkowski",
+            "branch":"HibernateEnd",
+            "date":"2021-11-21T15:59:13+01:00",
+            "message":"Refactor"
+         },
+         {
+            "author":"marcin witkowski",
+            "branch":"HibernateEnd",
+            "date":"2021-11-21T20:15:05+01:00",
+            "message":"Refactor"
+         },
+         {
+            "author":"marcin witkowski",
+            "branch":"HibernateEnd",
+            "date":"2021-11-21T21:41:22+01:00",
+            "message":"code classes"
+         }
+      ],
+      "authors":[
+         "THINK",
+         "WitMar",
+         "marcin witkowski",
+         "witkowski.mar@gmail.com"
+      ]
+   }
+}
